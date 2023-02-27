@@ -1,0 +1,61 @@
+.topnav {
+    background-color :black;
+    overflow: hidden;  
+    display: flex;
+
+    
+    
+
+  }
+
+  .topnav a {
+    float: left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size: 23px;
+    align-content: center;
+    transition: transform .25s;
+    
+
+
+  }
+  
+  .topnav a:hover {
+    background-color: black;
+    color: white;
+
+    transform: scale(1.15); 
+  }
+
+#fa{
+    color: #2987ce;
+    
+}
+
+#img{
+    border-radius: 50%;
+}
+.aln{
+    display :block;
+    width:15%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+ 
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body {
+    background-image: url("download (2).png");
+    background-color: #cccccc;
+    
+   }
+
+   p{
+    text size: 70px;
+   }
